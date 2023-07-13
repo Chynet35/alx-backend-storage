@@ -1,0 +1,1 @@
+# Tasks on storage boxes for information(database).
